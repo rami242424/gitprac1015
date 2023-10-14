@@ -1,2 +1,2 @@
-이건 master에 올릴거에요
-main과 다릅니다.
+이제부터는 클론을 해볼게요
+manual-merge 폴더에서 clone 폴더로 pull해볼겁니다.

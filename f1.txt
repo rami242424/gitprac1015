@@ -1,2 +1,4 @@
 이제부터는 클론을 해볼게요
 manual-merge 폴더에서 clone 폴더로 pull해볼겁니다.
+
+이번에는 clone폴더에서 manual-merge로 pull해보겠습니다.
